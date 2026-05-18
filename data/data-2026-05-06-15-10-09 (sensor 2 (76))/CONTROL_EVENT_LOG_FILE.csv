@@ -1,0 +1,481 @@
+timestamp,source,action,details
+1778073086.3029513,STM_PIN,low,pin=7
+1778073086.3029513,PELTIER_SWITCH,off,pin=7;reason=pressure_control
+1778073086.310841,USB_RELAY,on,relay=3;response=relay on
+1778073086.3234334,USB_RELAY,off,relay=3;response=3  >relay
+1778073092.4032953,STM_PIN,low,pin=6
+1778073092.4032953,POLARITY,cool,pin=6
+1778073092.4283192,STM_PIN,high,pin=7
+1778073092.434531,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778073248.946223,STM_PIN,low,pin=7
+1778073248.9503946,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778073252.2535357,STM_PIN,high,pin=6
+1778073252.2786775,POLARITY,heat,pin=6
+1778073252.3724515,STM_PIN,high,pin=7
+1778073252.3724515,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778073324.129593,STM_PIN,low,pin=7
+1778073324.1338046,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778073324.192131,USB_RELAY,on,relay=3;response=off 3  >
+1778073324.2028058,USB_RELAY,off,relay=3;response=relay on
+1778073327.2049167,USB_RELAY,on,relay=3;response=3  >relay
+1778073327.217806,USB_RELAY,off,relay=3;response=off 3  >
+1778073330.2194426,USB_RELAY,on,relay=3;response=relay on
+1778073330.2335362,USB_RELAY,off,relay=3;response=3  >relay
+1778073333.2370656,USB_RELAY,on,relay=3;response=off 3  >
+1778073333.2497313,USB_RELAY,off,relay=3;response=relay on
+1778073336.2510433,USB_RELAY,on,relay=3;response=3  >relay
+1778073336.2637494,USB_RELAY,off,relay=3;response=off 3  >
+1778073342.3134804,STM_PIN,low,pin=6
+1778073342.3134804,POLARITY,cool,pin=6
+1778073342.4516718,STM_PIN,high,pin=7
+1778073342.4516718,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778073342.570134,STM_PIN,low,pin=7
+1778073342.570134,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778073342.6753342,STM_PIN,high,pin=7
+1778073342.6753342,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778073617.7952602,STM_PIN,low,pin=7
+1778073617.7952602,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778073617.857719,USB_RELAY,on,relay=3;response=relay on
+1778073617.868622,USB_RELAY,off,relay=3;response=3  >relay
+1778073620.8703551,USB_RELAY,on,relay=3;response=off 3  >
+1778073620.8839145,USB_RELAY,off,relay=3;response=relay on
+1778073623.8862183,USB_RELAY,on,relay=3;response=3  >relay
+1778073623.8980923,USB_RELAY,off,relay=3;response=off 3  >
+1778073626.9012742,USB_RELAY,on,relay=3;response=relay on
+1778073626.9124365,USB_RELAY,off,relay=3;response=3  >relay
+1778073630.043544,STM_PIN,high,pin=7
+1778073630.043544,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778073661.110772,STM_PIN,low,pin=7
+1778073661.110772,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778073664.2579467,STM_PIN,high,pin=6
+1778073664.2579467,POLARITY,heat,pin=6
+1778073664.3104513,STM_PIN,high,pin=7
+1778073664.3104513,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778073739.5733442,STM_PIN,low,pin=7
+1778073739.5733442,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778073739.6258278,USB_RELAY,on,relay=3;response=off 3  >
+1778073739.6415892,USB_RELAY,off,relay=3;response=relay on
+1778073742.643276,USB_RELAY,on,relay=3;response=3  >relay
+1778073742.6566327,USB_RELAY,off,relay=3;response=off 3  >
+1778073745.6573436,USB_RELAY,on,relay=3;response=relay on
+1778073745.6712205,USB_RELAY,off,relay=3;response=3  >relay
+1778073748.6739216,USB_RELAY,on,relay=3;response=off 3  >
+1778073748.6870053,USB_RELAY,off,relay=3;response=relay on
+1778073751.6879725,USB_RELAY,on,relay=3;response=3  >relay
+1778073751.700946,USB_RELAY,off,relay=3;response=off 3  >
+1778073754.7039795,USB_RELAY,on,relay=3;response=relay on
+1778073754.7158964,USB_RELAY,off,relay=3;response=3  >relay
+1778073757.7672539,STM_PIN,high,pin=7
+1778073757.775279,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778073769.3877559,STM_PIN,low,pin=7
+1778073769.3877559,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778073772.506121,STM_PIN,low,pin=6
+1778073772.506121,POLARITY,cool,pin=6
+1778073772.5330844,STM_PIN,high,pin=7
+1778073772.5330844,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074078.236321,STM_PIN,low,pin=7
+1778074078.236321,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074078.3010857,USB_RELAY,on,relay=3;response=off 3  >
+1778074078.313799,USB_RELAY,off,relay=3;response=relay on
+1778074081.3184848,USB_RELAY,on,relay=3;response=3  >relay
+1778074081.331417,USB_RELAY,off,relay=3;response=off 3  >
+1778074084.3353336,USB_RELAY,on,relay=3;response=relay on
+1778074084.3480017,USB_RELAY,off,relay=3;response=3  >relay
+1778074087.3522098,USB_RELAY,on,relay=3;response=off 3  >
+1778074087.3642206,USB_RELAY,off,relay=3;response=relay on
+1778074090.3687158,USB_RELAY,on,relay=3;response=3  >relay
+1778074090.3805864,USB_RELAY,off,relay=3;response=off 3  >
+1778074093.4636457,STM_PIN,high,pin=7
+1778074093.4636457,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074129.739919,STM_PIN,low,pin=7
+1778074129.739919,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074132.8623257,STM_PIN,high,pin=6
+1778074132.867644,POLARITY,heat,pin=6
+1778074132.9727964,STM_PIN,high,pin=7
+1778074132.9727964,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074207.9007678,STM_PIN,low,pin=7
+1778074207.9007678,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074207.9565823,USB_RELAY,on,relay=3;response=relay on
+1778074207.9709716,USB_RELAY,off,relay=3;response=3  >relay
+1778074210.9744036,USB_RELAY,on,relay=3;response=off 3  >
+1778074210.9857488,USB_RELAY,off,relay=3;response=relay on
+1778074213.9872482,USB_RELAY,on,relay=3;response=3  >relay
+1778074214.0008879,USB_RELAY,off,relay=3;response=off 3  >
+1778074217.0048656,USB_RELAY,on,relay=3;response=relay on
+1778074217.0177228,USB_RELAY,off,relay=3;response=3  >relay
+1778074220.0215068,USB_RELAY,on,relay=3;response=off 3  >
+1778074220.0335925,USB_RELAY,off,relay=3;response=relay on
+1778074223.0385425,USB_RELAY,on,relay=3;response=3  >relay
+1778074223.0502791,USB_RELAY,off,relay=3;response=off 3  >
+1778074226.1338573,STM_PIN,high,pin=7
+1778074226.1459532,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074237.0011475,STM_PIN,low,pin=7
+1778074237.0168607,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074240.1575577,STM_PIN,low,pin=6
+1778074240.1575577,POLARITY,cool,pin=6
+1778074240.218482,STM_PIN,high,pin=7
+1778074240.218482,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074547.337642,STM_PIN,low,pin=7
+1778074547.337642,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074547.4021852,USB_RELAY,on,relay=3;response=relay on
+1778074547.4134538,USB_RELAY,off,relay=3;response=3  >relay
+1778074550.4157655,USB_RELAY,on,relay=3;response=off 3  >
+1778074550.4285872,USB_RELAY,off,relay=3;response=relay on
+1778074553.432084,USB_RELAY,on,relay=3;response=3  >relay
+1778074553.446119,USB_RELAY,off,relay=3;response=off 3  >
+1778074556.4475613,USB_RELAY,on,relay=3;response=relay on
+1778074556.4621985,USB_RELAY,off,relay=3;response=3  >relay
+1778074559.465682,USB_RELAY,on,relay=3;response=off 3  >
+1778074559.478533,USB_RELAY,off,relay=3;response=relay on
+1778074562.4826655,USB_RELAY,on,relay=3;response=3  >relay
+1778074562.4942915,USB_RELAY,off,relay=3;response=off 3  >
+1778074565.549851,STM_PIN,high,pin=7
+1778074565.549851,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074604.963611,STM_PIN,low,pin=7
+1778074604.963611,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074608.0841882,STM_PIN,high,pin=6
+1778074608.0841882,POLARITY,heat,pin=6
+1778074608.220445,STM_PIN,high,pin=7
+1778074608.2243202,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074683.086358,STM_PIN,low,pin=7
+1778074683.086358,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074683.1549215,USB_RELAY,on,relay=3;response=relay on
+1778074683.1770926,USB_RELAY,off,relay=3;response=3  >relay
+1778074686.1815236,USB_RELAY,on,relay=3;response=off 3  >
+1778074686.1927114,USB_RELAY,off,relay=3;response=relay on
+1778074689.1957226,USB_RELAY,on,relay=3;response=3  >relay
+1778074689.2118492,USB_RELAY,off,relay=3;response=off 3  >
+1778074692.2127082,USB_RELAY,on,relay=3;response=relay on
+1778074692.2264032,USB_RELAY,off,relay=3;response=3  >relay
+1778074695.2286837,USB_RELAY,on,relay=3;response=off 3  >
+1778074695.2425678,USB_RELAY,off,relay=3;response=relay on
+1778074698.2471993,USB_RELAY,on,relay=3;response=3  >relay
+1778074698.2594845,USB_RELAY,off,relay=3;response=off 3  >
+1778074701.265483,USB_RELAY,on,relay=3;response=relay on
+1778074701.2761536,USB_RELAY,off,relay=3;response=3  >relay
+1778074704.3553233,STM_PIN,high,pin=7
+1778074704.356726,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778074716.6538186,STM_PIN,low,pin=7
+1778074716.6538186,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778074719.8138702,STM_PIN,low,pin=6
+1778074719.8264,POLARITY,cool,pin=6
+1778074719.8551846,STM_PIN,high,pin=7
+1778074719.856693,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075028.1723597,STM_PIN,low,pin=7
+1778075028.1723597,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075028.2387786,USB_RELAY,on,relay=3;response=off 3  >
+1778075028.2493582,USB_RELAY,off,relay=3;response=relay on
+1778075031.2503152,USB_RELAY,on,relay=3;response=3  >relay
+1778075031.2634158,USB_RELAY,off,relay=3;response=off 3  >
+1778075034.26535,USB_RELAY,on,relay=3;response=relay on
+1778075034.279088,USB_RELAY,off,relay=3;response=3  >relay
+1778075037.28167,USB_RELAY,on,relay=3;response=off 3  >
+1778075037.2947736,USB_RELAY,off,relay=3;response=relay on
+1778075040.297509,USB_RELAY,on,relay=3;response=3  >relay
+1778075040.31141,USB_RELAY,off,relay=3;response=off 3  >
+1778075043.3138523,USB_RELAY,on,relay=3;response=relay on
+1778075043.3283863,USB_RELAY,off,relay=3;response=3  >relay
+1778075046.3313317,USB_RELAY,on,relay=3;response=off 3  >
+1778075046.3450334,USB_RELAY,off,relay=3;response=relay on
+1778075049.3998563,STM_PIN,high,pin=7
+1778075049.3998563,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075090.4532177,STM_PIN,low,pin=7
+1778075090.4532177,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075093.6053157,STM_PIN,high,pin=6
+1778075093.6053157,POLARITY,heat,pin=6
+1778075093.6542373,STM_PIN,high,pin=7
+1778075093.6542373,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075169.1565425,STM_PIN,low,pin=7
+1778075169.1565425,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075169.2155051,USB_RELAY,on,relay=3;response=3  >relay
+1778075169.2322764,USB_RELAY,off,relay=3;response=off 3  >
+1778075172.237039,USB_RELAY,on,relay=3;response=relay on
+1778075172.248102,USB_RELAY,off,relay=3;response=3  >relay
+1778075175.2526596,USB_RELAY,on,relay=3;response=off 3  >
+1778075175.2639518,USB_RELAY,off,relay=3;response=relay on
+1778075178.2666028,USB_RELAY,on,relay=3;response=3  >relay
+1778075178.279855,USB_RELAY,off,relay=3;response=off 3  >
+1778075181.2844138,USB_RELAY,on,relay=3;response=relay on
+1778075181.2971032,USB_RELAY,off,relay=3;response=3  >relay
+1778075184.2986398,USB_RELAY,on,relay=3;response=off 3  >
+1778075184.3114753,USB_RELAY,off,relay=3;response=relay on
+1778075187.313412,USB_RELAY,on,relay=3;response=3  >relay
+1778075187.327799,USB_RELAY,off,relay=3;response=off 3  >
+1778075190.330087,USB_RELAY,on,relay=3;response=relay on
+1778075190.3447363,USB_RELAY,off,relay=3;response=3  >relay
+1778075193.3483262,USB_RELAY,on,relay=3;response=off 3  >
+1778075193.3602636,USB_RELAY,off,relay=3;response=relay on
+1778075196.4451447,STM_PIN,high,pin=7
+1778075196.4451447,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075211.505906,STM_PIN,low,pin=7
+1778075211.5077193,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075211.564395,USB_RELAY,on,relay=3;response=3  >relay
+1778075211.576372,USB_RELAY,off,relay=3;response=off 3  >
+1778075217.6257544,STM_PIN,low,pin=6
+1778075217.6331358,POLARITY,cool,pin=6
+1778075217.6830401,STM_PIN,high,pin=7
+1778075217.6830401,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075526.085406,STM_PIN,low,pin=7
+1778075526.085406,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075526.15514,USB_RELAY,on,relay=3;response=relay on
+1778075526.1756964,USB_RELAY,off,relay=3;response=3  >relay
+1778075529.1831038,USB_RELAY,on,relay=3;response=off 3  >
+1778075529.1942334,USB_RELAY,off,relay=3;response=relay on
+1778075532.1973372,USB_RELAY,on,relay=3;response=3  >relay
+1778075532.2105794,USB_RELAY,off,relay=3;response=off 3  >
+1778075535.2127726,USB_RELAY,on,relay=3;response=relay on
+1778075535.2269468,USB_RELAY,off,relay=3;response=3  >relay
+1778075538.2307532,USB_RELAY,on,relay=3;response=off 3  >
+1778075538.243371,USB_RELAY,off,relay=3;response=relay on
+1778075541.2449298,USB_RELAY,on,relay=3;response=3  >relay
+1778075541.2582939,USB_RELAY,off,relay=3;response=off 3  >
+1778075544.262501,USB_RELAY,on,relay=3;response=relay on
+1778075544.2741945,USB_RELAY,off,relay=3;response=3  >relay
+1778075547.2787564,USB_RELAY,on,relay=3;response=off 3  >
+1778075547.2910953,USB_RELAY,off,relay=3;response=relay on
+1778075550.2949936,USB_RELAY,on,relay=3;response=3  >relay
+1778075550.3088453,USB_RELAY,off,relay=3;response=off 3  >
+1778075553.4123695,STM_PIN,high,pin=7
+1778075553.4123695,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075605.803957,STM_PIN,low,pin=7
+1778075605.803957,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075608.9199605,STM_PIN,high,pin=6
+1778075608.9199605,POLARITY,heat,pin=6
+1778075608.9505925,STM_PIN,high,pin=7
+1778075608.9505925,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075685.1350513,STM_PIN,low,pin=7
+1778075685.1350513,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075685.1950848,USB_RELAY,on,relay=3;response=relay on
+1778075685.2070456,USB_RELAY,off,relay=3;response=3  >relay
+1778075688.2081137,USB_RELAY,on,relay=3;response=off 3  >
+1778075688.221878,USB_RELAY,off,relay=3;response=relay on
+1778075691.2268703,USB_RELAY,on,relay=3;response=3  >relay
+1778075691.237796,USB_RELAY,off,relay=3;response=off 3  >
+1778075694.2409332,USB_RELAY,on,relay=3;response=relay on
+1778075694.2519948,USB_RELAY,off,relay=3;response=3  >relay
+1778075697.2555346,USB_RELAY,on,relay=3;response=off 3  >
+1778075697.2687905,USB_RELAY,off,relay=3;response=relay on
+1778075700.2717683,USB_RELAY,on,relay=3;response=3  >relay
+1778075700.284914,USB_RELAY,off,relay=3;response=off 3  >
+1778075703.2898788,USB_RELAY,on,relay=3;response=relay on
+1778075703.3019185,USB_RELAY,off,relay=3;response=3  >relay
+1778075706.3045492,USB_RELAY,on,relay=3;response=off 3  >
+1778075706.318393,USB_RELAY,off,relay=3;response=relay on
+1778075709.321184,USB_RELAY,on,relay=3;response=3  >relay
+1778075709.3347034,USB_RELAY,off,relay=3;response=off 3  >
+1778075712.3369226,USB_RELAY,on,relay=3;response=relay on
+1778075712.3501542,USB_RELAY,off,relay=3;response=3  >relay
+1778075715.3550305,USB_RELAY,on,relay=3;response=off 3  >
+1778075715.366552,USB_RELAY,off,relay=3;response=relay on
+1778075718.369999,USB_RELAY,on,relay=3;response=3  >relay
+1778075718.3829877,USB_RELAY,off,relay=3;response=off 3  >
+1778075721.3868263,USB_RELAY,on,relay=3;response=relay on
+1778075721.398207,USB_RELAY,off,relay=3;response=3  >relay
+1778075724.4765322,STM_PIN,high,pin=7
+1778075724.4803712,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778075742.7153409,STM_PIN,low,pin=7
+1778075742.7153409,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778075745.8301415,STM_PIN,low,pin=6
+1778075745.8301415,POLARITY,cool,pin=6
+1778075745.8790185,STM_PIN,high,pin=7
+1778075745.8790185,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076058.0976903,STM_PIN,low,pin=7
+1778076058.0976903,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076058.1603107,USB_RELAY,on,relay=3;response=off 3  >
+1778076058.1816251,USB_RELAY,off,relay=3;response=relay on
+1778076061.1852186,USB_RELAY,on,relay=3;response=3  >relay
+1778076061.1970768,USB_RELAY,off,relay=3;response=off 3  >
+1778076064.1996055,USB_RELAY,on,relay=3;response=relay on
+1778076064.2135005,USB_RELAY,off,relay=3;response=3  >relay
+1778076067.2175722,USB_RELAY,on,relay=3;response=off 3  >
+1778076067.2294624,USB_RELAY,off,relay=3;response=relay on
+1778076070.2318733,USB_RELAY,on,relay=3;response=3  >relay
+1778076070.2461665,USB_RELAY,off,relay=3;response=off 3  >
+1778076073.2504642,USB_RELAY,on,relay=3;response=relay on
+1778076073.2625377,USB_RELAY,off,relay=3;response=3  >relay
+1778076076.2649672,USB_RELAY,on,relay=3;response=off 3  >
+1778076076.2796698,USB_RELAY,off,relay=3;response=relay on
+1778076079.2841563,USB_RELAY,on,relay=3;response=3  >relay
+1778076079.2971275,USB_RELAY,off,relay=3;response=off 3  >
+1778076082.30394,USB_RELAY,on,relay=3;response=relay on
+1778076082.315747,USB_RELAY,off,relay=3;response=3  >relay
+1778076085.3184311,USB_RELAY,on,relay=3;response=off 3  >
+1778076085.331879,USB_RELAY,off,relay=3;response=relay on
+1778076088.3363197,USB_RELAY,on,relay=3;response=3  >relay
+1778076088.3496358,USB_RELAY,off,relay=3;response=off 3  >
+1778076091.352818,USB_RELAY,on,relay=3;response=relay on
+1778076091.3641434,USB_RELAY,off,relay=3;response=3  >relay
+1778076094.366448,USB_RELAY,on,relay=3;response=off 3  >
+1778076094.380601,USB_RELAY,off,relay=3;response=relay on
+1778076097.3837705,USB_RELAY,on,relay=3;response=3  >relay
+1778076097.398033,USB_RELAY,off,relay=3;response=off 3  >
+1778076100.4004147,USB_RELAY,on,relay=3;response=relay on
+1778076100.4149225,USB_RELAY,off,relay=3;response=3  >relay
+1778076103.4429836,STM_PIN,high,pin=7
+1778076103.4429836,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076173.7962337,STM_PIN,low,pin=7
+1778076173.7962337,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076173.852192,USB_RELAY,on,relay=3;response=off 3  >
+1778076173.8638978,USB_RELAY,off,relay=3;response=relay on
+1778076179.9248924,STM_PIN,high,pin=6
+1778076179.9248924,POLARITY,heat,pin=6
+1778076179.9502418,STM_PIN,high,pin=7
+1778076179.9560442,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076256.2939844,STM_PIN,low,pin=7
+1778076256.2939844,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076256.3543296,USB_RELAY,on,relay=3;response=3  >relay
+1778076256.3661127,USB_RELAY,off,relay=3;response=off 3  >
+1778076259.3703487,USB_RELAY,on,relay=3;response=relay on
+1778076259.381857,USB_RELAY,off,relay=3;response=3  >relay
+1778076262.3859997,USB_RELAY,on,relay=3;response=off 3  >
+1778076262.398765,USB_RELAY,off,relay=3;response=relay on
+1778076265.4021313,USB_RELAY,on,relay=3;response=3  >relay
+1778076265.4145002,USB_RELAY,off,relay=3;response=off 3  >
+1778076268.5078535,USB_RELAY,on,relay=3;response=relay on
+1778076268.5184064,USB_RELAY,off,relay=3;response=3  >relay
+1778076271.521078,USB_RELAY,on,relay=3;response=off 3  >
+1778076271.5343456,USB_RELAY,off,relay=3;response=relay on
+1778076274.5396695,USB_RELAY,on,relay=3;response=3  >relay
+1778076274.551894,USB_RELAY,off,relay=3;response=off 3  >
+1778076277.5567672,USB_RELAY,on,relay=3;response=relay on
+1778076277.5675752,USB_RELAY,off,relay=3;response=3  >relay
+1778076280.571383,USB_RELAY,on,relay=3;response=off 3  >
+1778076280.5835676,USB_RELAY,off,relay=3;response=relay on
+1778076283.5860684,USB_RELAY,on,relay=3;response=3  >relay
+1778076283.5997033,USB_RELAY,off,relay=3;response=off 3  >
+1778076286.6046836,USB_RELAY,on,relay=3;response=relay on
+1778076286.6150546,USB_RELAY,off,relay=3;response=3  >relay
+1778076289.6189744,USB_RELAY,on,relay=3;response=off 3  >
+1778076289.6302414,USB_RELAY,off,relay=3;response=relay on
+1778076292.631944,USB_RELAY,on,relay=3;response=3  >relay
+1778076292.6465206,USB_RELAY,off,relay=3;response=off 3  >
+1778076295.647827,USB_RELAY,on,relay=3;response=relay on
+1778076295.6620836,USB_RELAY,off,relay=3;response=3  >relay
+1778076298.6636004,USB_RELAY,on,relay=3;response=off 3  >
+1778076298.678646,USB_RELAY,off,relay=3;response=relay on
+1778076301.6793334,USB_RELAY,on,relay=3;response=3  >relay
+1778076301.6943052,USB_RELAY,off,relay=3;response=off 3  >
+1778076304.695271,USB_RELAY,on,relay=3;response=relay on
+1778076304.709859,USB_RELAY,off,relay=3;response=3  >relay
+1778076307.7111838,USB_RELAY,on,relay=3;response=off 3  >
+1778076307.7244792,USB_RELAY,off,relay=3;response=relay on
+1778076310.7300673,USB_RELAY,on,relay=3;response=3  >relay
+1778076310.7437842,USB_RELAY,off,relay=3;response=off 3  >
+1778076313.7478125,USB_RELAY,on,relay=3;response=relay on
+1778076313.7593253,USB_RELAY,off,relay=3;response=3  >relay
+1778076316.7629397,USB_RELAY,on,relay=3;response=off 3  >
+1778076316.774989,USB_RELAY,off,relay=3;response=relay on
+1778076319.8287795,STM_PIN,high,pin=7
+1778076319.8287795,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076342.1901045,STM_PIN,low,pin=7
+1778076342.1901045,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076342.2468953,USB_RELAY,on,relay=3;response=3  >relay
+1778076342.2596018,USB_RELAY,off,relay=3;response=off 3  >
+1778076348.3153195,STM_PIN,low,pin=6
+1778076348.3153195,POLARITY,cool,pin=6
+1778076348.3467188,STM_PIN,high,pin=7
+1778076348.3487306,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076668.7501833,STM_PIN,low,pin=7
+1778076668.7501833,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076668.8163738,USB_RELAY,on,relay=3;response=relay on
+1778076668.8390067,USB_RELAY,off,relay=3;response=3  >relay
+1778076671.841387,USB_RELAY,on,relay=3;response=off 3  >
+1778076671.855723,USB_RELAY,off,relay=3;response=relay on
+1778076674.859171,USB_RELAY,on,relay=3;response=3  >relay
+1778076674.8738327,USB_RELAY,off,relay=3;response=off 3  >
+1778076677.8789968,USB_RELAY,on,relay=3;response=relay on
+1778076677.8899624,USB_RELAY,off,relay=3;response=3  >relay
+1778076680.8942146,USB_RELAY,on,relay=3;response=off 3  >
+1778076680.9063363,USB_RELAY,off,relay=3;response=relay on
+1778076683.9113445,USB_RELAY,on,relay=3;response=3  >relay
+1778076683.9226015,USB_RELAY,off,relay=3;response=off 3  >
+1778076686.9275193,USB_RELAY,on,relay=3;response=relay on
+1778076686.9383087,USB_RELAY,off,relay=3;response=3  >relay
+1778076689.9431624,USB_RELAY,on,relay=3;response=off 3  >
+1778076689.9556065,USB_RELAY,off,relay=3;response=relay on
+1778076692.957161,USB_RELAY,on,relay=3;response=3  >relay
+1778076692.9707334,USB_RELAY,off,relay=3;response=off 3  >
+1778076695.975327,USB_RELAY,on,relay=3;response=relay on
+1778076695.986931,USB_RELAY,off,relay=3;response=3  >relay
+1778076698.9912555,USB_RELAY,on,relay=3;response=off 3  >
+1778076699.0035305,USB_RELAY,off,relay=3;response=relay on
+1778076702.0065296,USB_RELAY,on,relay=3;response=3  >relay
+1778076702.0198808,USB_RELAY,off,relay=3;response=off 3  >
+1778076705.0224264,USB_RELAY,on,relay=3;response=relay on
+1778076705.0361543,USB_RELAY,off,relay=3;response=3  >relay
+1778076708.0396059,USB_RELAY,on,relay=3;response=off 3  >
+1778076708.055455,USB_RELAY,off,relay=3;response=relay on
+1778076711.056399,USB_RELAY,on,relay=3;response=3  >relay
+1778076711.0702014,USB_RELAY,off,relay=3;response=off 3  >
+1778076714.0724216,USB_RELAY,on,relay=3;response=relay on
+1778076714.0865605,USB_RELAY,off,relay=3;response=3  >relay
+1778076717.0910594,USB_RELAY,on,relay=3;response=off 3  >
+1778076717.1036515,USB_RELAY,off,relay=3;response=relay on
+1778076720.1072192,USB_RELAY,on,relay=3;response=3  >relay
+1778076720.1212459,USB_RELAY,off,relay=3;response=off 3  >
+1778076723.1257007,USB_RELAY,on,relay=3;response=relay on
+1778076723.1378975,USB_RELAY,off,relay=3;response=3  >relay
+1778076726.142707,USB_RELAY,on,relay=3;response=off 3  >
+1778076726.154044,USB_RELAY,off,relay=3;response=relay on
+1778076729.15808,USB_RELAY,on,relay=3;response=3  >relay
+1778076729.1704314,USB_RELAY,off,relay=3;response=off 3  >
+1778076732.1755855,USB_RELAY,on,relay=3;response=relay on
+1778076732.1859999,USB_RELAY,off,relay=3;response=3  >relay
+1778076735.1925118,USB_RELAY,on,relay=3;response=off 3  >
+1778076735.2053077,USB_RELAY,off,relay=3;response=relay on
+1778076738.2086456,USB_RELAY,on,relay=3;response=3  >relay
+1778076738.2208128,USB_RELAY,off,relay=3;response=off 3  >
+1778076741.2256281,USB_RELAY,on,relay=3;response=relay on
+1778076741.2369745,USB_RELAY,off,relay=3;response=3  >relay
+1778076744.240576,USB_RELAY,on,relay=3;response=off 3  >
+1778076744.2518811,USB_RELAY,off,relay=3;response=relay on
+1778076747.2530422,USB_RELAY,on,relay=3;response=3  >relay
+1778076747.2663257,USB_RELAY,off,relay=3;response=off 3  >
+1778076750.270622,USB_RELAY,on,relay=3;response=relay on
+1778076750.2830162,USB_RELAY,off,relay=3;response=3  >relay
+1778076753.2876418,USB_RELAY,on,relay=3;response=off 3  >
+1778076753.299771,USB_RELAY,off,relay=3;response=relay on
+1778076756.3045173,USB_RELAY,on,relay=3;response=3  >relay
+1778076756.3165963,USB_RELAY,off,relay=3;response=off 3  >
+1778076759.3207562,USB_RELAY,on,relay=3;response=relay on
+1778076759.3331478,USB_RELAY,off,relay=3;response=3  >relay
+1778076762.3354142,USB_RELAY,on,relay=3;response=off 3  >
+1778076762.3495686,USB_RELAY,off,relay=3;response=relay on
+1778076765.3539584,USB_RELAY,on,relay=3;response=3  >relay
+1778076765.3660314,USB_RELAY,off,relay=3;response=off 3  >
+1778076768.367875,USB_RELAY,on,relay=3;response=relay on
+1778076768.3811917,USB_RELAY,off,relay=3;response=3  >relay
+1778076771.3838513,USB_RELAY,on,relay=3;response=off 3  >
+1778076771.397482,USB_RELAY,off,relay=3;response=relay on
+1778076774.4017532,USB_RELAY,on,relay=3;response=3  >relay
+1778076774.4138916,USB_RELAY,off,relay=3;response=off 3  >
+1778076777.4161363,USB_RELAY,on,relay=3;response=relay on
+1778076777.4287972,USB_RELAY,off,relay=3;response=3  >relay
+1778076780.4902349,STM_PIN,high,pin=7
+1778076780.5047338,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076893.8386676,STM_PIN,low,pin=7
+1778076893.8386676,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076893.901469,USB_RELAY,on,relay=3;response=off 3  >
+1778076893.9142506,USB_RELAY,off,relay=3;response=relay on
+1778076896.9177227,USB_RELAY,on,relay=3;response=3  >relay
+1778076896.9293947,USB_RELAY,off,relay=3;response=off 3  >
+1778076902.9473166,STM_PIN,high,pin=6
+1778076902.9473166,POLARITY,heat,pin=6
+1778076903.0570662,STM_PIN,high,pin=7
+1778076903.0570662,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076978.4470663,STM_PIN,low,pin=7
+1778076978.4493172,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076978.506846,USB_RELAY,on,relay=3;response=relay on
+1778076983.5122309,USB_RELAY,off,relay=3;response=3  >relay
+1778076989.5702271,STM_PIN,low,pin=6
+1778076989.5702271,POLARITY,cool,pin=6
+1778076989.6824746,STM_PIN,high,pin=7
+1778076989.6847255,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778076993.4901364,STM_PIN,low,pin=7
+1778076993.4901364,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778076993.6508496,STM_PIN,high,pin=7
+1778076993.6578767,PELTIER_SWITCH,on,pin=7;reason=set_temp_stream
+1778077279.6434162,STM_PIN,low,pin=7
+1778077279.6434162,PELTIER_SWITCH,off,pin=7;reason=set_temp_stream_done
+1778077279.7011395,USB_RELAY,on,relay=3;response=off 3  >
+1778077284.7034895,USB_RELAY,off,relay=3;response=relay on
